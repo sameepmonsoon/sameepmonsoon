@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameep.</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+>
 
 
 - 📫 How to reach me **sameep.monsoon@gmail.com**
